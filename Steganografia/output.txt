@@ -1,4 +1,4 @@
-ezza file: 4
+Lunghezza file: 4
 
 Contenuto del file "testo.txt"
 65 66 67 68 
