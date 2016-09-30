@@ -1,6 +1,5 @@
 import java.io.*;
 public class GestioneFile {
-	
 	//restituisce la dimensione del file (in byte)
 	public static long dimensioneFile(String nomeFile) 
 		throws IOException{
